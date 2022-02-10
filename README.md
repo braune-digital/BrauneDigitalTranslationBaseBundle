@@ -9,7 +9,7 @@ In order to install this bundle you will need:
 If you want to use SonataAdmin integration you need a few more:
 * SonataAdmin (Backend Management)
 * A2LixTranslationFormBundle (Translation Form-Rendering)
-* An ckeditor field maybe from `IvoryCKEditorBundle`  
+* An ckeditor field maybe from `FOSCKEditorBundle`  
 
 ## Installation
 
